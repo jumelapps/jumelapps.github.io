@@ -22,7 +22,7 @@ We take user privacy seriously. All applications published under this developer 
 
 If you need assistance with any of the apps, want to report a bug, or have a general inquiry, please reach out via email:
 
-**Support Email:** [Seu Novo E-mail de Dev Aqui]
+**Support Email:** jumel.apps@gmail.com
 
 ---
 *Developed in São Paulo, Brazil.* 🇧🇷
